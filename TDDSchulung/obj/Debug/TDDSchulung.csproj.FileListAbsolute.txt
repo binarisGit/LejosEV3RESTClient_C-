@@ -1,0 +1,6 @@
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung\bin\Debug\TDDSchulung.pdb
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung\obj\Debug\TDDSchulung.csprojResolveAssemblyReference.cache
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung\obj\Debug\TDDSchulung.pdb
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung\bin\Debug\TDDSchulung.exe.config
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung\bin\Debug\TDDSchulung.exe
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung\obj\Debug\TDDSchulung.exe

@@ -1,0 +1,17 @@
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\TDDSchulung.Test.dll
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\TDDSchulung.Test.pdb
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\Moq.dll
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\TDDSchulung.pdb
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\Moq.xml
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\obj\Debug\TDDSchulung.Test.csprojResolveAssemblyReference.cache
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\obj\Debug\TDDSchulung.Test.dll
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\obj\Debug\TDDSchulung.Test.pdb
+c:\users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\TDDSchulung.exe
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\TDDSchulung.Test.dll.config
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\RichardSzalay.MockHttp.dll
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\binaris\documents\visual studio 2015\Projects\TDDSchulung.Test\TDDSchulung.Test\obj\Debug\TDDSchulung.Test.csproj.App.config
